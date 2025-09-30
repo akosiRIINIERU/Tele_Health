@@ -52,7 +52,8 @@ export function LoginScreen({ onRegister }: LoginScreenProps) {
           <div className="mx-auto w-16 h-16 bg-pink-100 rounded-full flex items-center justify-center">
             <Heart className="w-8 h-8 text-pink-500" />
           </div>
-          <CardTitle className="text-2xl text-gray-800">Welcome Back</CardTitle>
+          <CardTitle className="text-2xl text-gray-800">TeleHealth</CardTitle>
+          <p className="text-gray-600">Special Care, Anytime, Anywhere</p>
           <p className="text-gray-600">Sign in to your account</p>
         </CardHeader>
         <CardContent>
