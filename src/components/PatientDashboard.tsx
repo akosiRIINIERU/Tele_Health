@@ -81,7 +81,7 @@ export function PatientDashboard({ user, onLogout }: PatientDashboardProps) {
               <Heart className="w-5 h-5 text-pink-500" />
             </div>
             <div>
-              <h1 className="font-semibold text-gray-900">HealthCare</h1>
+              <h1 className="font-semibold text-gray-900">TeleHealth</h1>
               <p className="text-xs text-gray-500">Welcome, {user.user_metadata?.name || 'Patient'}</p>
             </div>
           </div>

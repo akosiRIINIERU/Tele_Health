@@ -23,7 +23,7 @@ export function ChatSystem({ user, userType }: ChatSystemProps) {
   const chats = [
     {
       id: 1,
-      name: userType === 'patient' ? 'Dr. Sarah Wilson' : 'Maria Santos',
+      name: userType === 'patient' ? 'Dr. Van Doom' : 'Coco Marxton',
       role: userType === 'patient' ? 'Cardiologist' : 'Patient',
       lastMessage: 'Thank you for the consultation',
       timestamp: '2 min ago',
@@ -33,7 +33,7 @@ export function ChatSystem({ user, userType }: ChatSystemProps) {
     },
     {
       id: 2,
-      name: userType === 'patient' ? 'Dr. John Smith' : 'Juan Cruz',
+      name: userType === 'patient' ? 'Dr. Jojo Makaguba' : 'James Reid',
       role: userType === 'patient' ? 'General Practitioner' : 'Patient',
       lastMessage: 'Your test results are ready',
       timestamp: '1 hour ago',
@@ -43,7 +43,7 @@ export function ChatSystem({ user, userType }: ChatSystemProps) {
     },
     {
       id: 3,
-      name: userType === 'patient' ? 'Dr. Emily Chen' : 'Ana Garcia',
+      name: userType === 'patient' ? 'Dr. Richard Reeds' : 'Inday Puday',
       role: userType === 'patient' ? 'Dermatologist' : 'Patient',
       lastMessage: 'Please follow the treatment plan',
       timestamp: '3 hours ago',
