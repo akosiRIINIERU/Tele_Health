@@ -230,7 +230,7 @@ function HomeContent({ user, onSelectDoctor }: { user: any; onSelectDoctor: (doc
               <div className="w-2 h-2 bg-green-500 rounded-full"></div>
               <div className="flex-1">
                 <p className="text-sm font-medium text-gray-900">Appointment completed</p>
-                <p className="text-xs text-gray-500">Dr. Smith - General Checkup</p>
+                <p className="text-xs text-gray-500">Dr. Makaguba - General Checkup</p>
               </div>
               <span className="text-xs text-gray-400">2 days ago</span>
             </div>

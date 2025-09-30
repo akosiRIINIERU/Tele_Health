@@ -274,7 +274,7 @@ function DoctorHomeContent({ user, profile }: { user: any; profile: any }) {
                   <User className="w-5 h-5 text-pink-600" />
                 </div>
                 <div>
-                  <p className="font-medium text-gray-900">Maria Santos</p>
+                  <p className="font-medium text-gray-900">Inday Puday</p>
                   <p className="text-sm text-gray-500">General Checkup</p>
                 </div>
               </div>
@@ -292,7 +292,7 @@ function DoctorHomeContent({ user, profile }: { user: any; profile: any }) {
                   <User className="w-5 h-5 text-pink-600" />
                 </div>
                 <div>
-                  <p className="font-medium text-gray-900">Juan Cruz</p>
+                  <p className="font-medium text-gray-900">James Reid</p>
                   <p className="text-sm text-gray-500">Follow-up</p>
                 </div>
               </div>
