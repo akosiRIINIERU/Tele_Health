@@ -5,6 +5,7 @@
 
   export default defineConfig({
     plugins: [react()],
+    base:"TELE_HEALTH",
     resolve: {
       extensions: ['.js', '.jsx', '.ts', '.tsx', '.json'],
       alias: {
