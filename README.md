@@ -1,11 +1,1 @@
-
-  # Doctor Booking Appointment App
-
-  This is a code bundle for Doctor Booking Appointment App. The original project is available at https://www.figma.com/design/nedreCHNwleESGJLP02BLp/Doctor-Booking-Appointment-App.
-
-  ## Running the code
-
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
-  
+This is a Doctor Booking Appointment App call Telehealth and it has a lot of features too.
